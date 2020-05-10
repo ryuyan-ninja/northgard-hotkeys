@@ -1,4 +1,4 @@
-#Include debug.ahk
+; #Include debug.ahk
 ; #Include update-check.ahk
 #Include functions.ahk
 #Include buildings.ahk
